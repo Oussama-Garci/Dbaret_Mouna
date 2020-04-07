@@ -19,7 +19,7 @@ class MyGrid(GridLayout):
         self.add_widget(Label(text="jgh"))
 
         self.G = Button(text="click", font_size=20)
-        self.add_widget(Label(text="mlm"))
+        self.add_widget(Label(text="my_app"))
 
         self.add_widget(self.Grid2)
 
